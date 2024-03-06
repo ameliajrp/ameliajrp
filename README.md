@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on USU Fasilkom TI
+- 📫 How to reach me: instagram (ameliajrp)
+- ⚡ Fun fact: woyvu
+-->
 
 <!--
 **ameliajrp/ameliajrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
